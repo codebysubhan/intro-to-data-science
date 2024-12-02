@@ -1,0 +1,8 @@
+Unique Cities:
+['New York' 'Los Angeles' 'Chicago' 'Houston' 'Phoenix']
+
+Unique Products:
+['Laptop' 'Smartphone' 'Tablet' 'Headphones' 'Monitor']
+
+Mean of Amount: 800.0
+Median of Amount: 800.0
